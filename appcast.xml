@@ -17,14 +17,14 @@
                     </ul>
                 ]]>
             </description>
-            <pubDate>Mon, 24 Jun 2024 12:00:00 +0000</pubDate>
+            <pubDate>Mon, 6 May 2025 12:00:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/ALBI0NE/TradeBlocker-updates/releases/download/v1.0.0/TradeBlocker-1.0.0.dmg"
                 sparkle:version="1.0.0"
                 sparkle:shortVersionString="1.0.0"
                 length="0"
                 type="application/octet-stream"
-                sparkle:edSignature="YOUR_SIGNATURE_WILL_GO_HERE"
+                sparkle:edSignature="hT4tAp/4hnd93hZNZrRz7CbneNsFB80FEjELdoqA/fKxgILJqoun6nQmNDYjWJAV/4t24MxANOzIMDII88yEDQ=="
             />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
