@@ -8,7 +8,7 @@
             <sparkle:version>1.0.5</sparkle:version>
             <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="hhttps://github.com/ALBI0NE/TradeBlocker-updates/releases/download/v1.0.6/tradeblocker106.dmg" length="16521354" type="application/octet-stream" sparkle:edSignature="G5Ht2cezvP+FBHa6Ga/9wnAE66n08bQh/9KqQm6aXR8PHkNVnq8aW1IpSVQ1upUjwRYcfrVhdxBqlGHTKDnPAQ=="/>
+            <enclosure url="https://github.com/ALBI0NE/TradeBlocker-updates/releases/download/v1.0.6/tradeblocker106.dmg" length="16521354" type="application/octet-stream" sparkle:edSignature="G5Ht2cezvP+FBHa6Ga/9wnAE66n08bQh/9KqQm6aXR8PHkNVnq8aW1IpSVQ1upUjwRYcfrVhdxBqlGHTKDnPAQ=="/>
         </item>
     </channel>
 </rss>
