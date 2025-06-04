@@ -3,12 +3,12 @@
     <channel>
         <title>TradeBlocker</title>
         <item>
-            <title>1.0.76</title>
-            <pubDate>Tue, 20 May 2025 15:13:17 +0100</pubDate>
-            <sparkle:version>1.0.76</sparkle:version>
-            <sparkle:shortVersionString>1.0.76</sparkle:shortVersionString>
+            <title>1.0.8</title>
+            <pubDate>Wed, 04 Jun 2025 21:19:47 +0100</pubDate>
+            <sparkle:version>1.0.8</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ALBI0NE/TradeBlocker-updates/releases/download/v1.0.76/tradeblocker1076.dmg" length="16628420" type="application/octet-stream" sparkle:edSignature="uqc8IpS52SJoPzX+bULYwqxcTqpydACpgXtULOQzH/Dzqx5N3CSekW8xkkklyEq/ZTDfkxxiXfYWGLL949EjAg=="/>
+            <enclosure url="https://github.com/ALBI0NE/TradeBlocker-updates/releases/download/v1.0.8/tradeblocker1008.dmg" length="18018485" type="application/octet-stream" sparkle:edSignature="4KXFE8IdhylCimkK8KycbdVqh4JLb7OQk4tbW73KHoa6Kq5Q8ZF3iqwUbadw2rk4E5fflnFfkPGIoODaDgbgAQ=="/>
         </item>
     </channel>
 </rss>
